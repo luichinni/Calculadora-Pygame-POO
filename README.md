@@ -36,5 +36,5 @@ Para utilizar esta calculadora solo es necesario ejecutar uno de los dos archivo
 :white_check_mark:**Pi 	(_π_)**
 
 
-# Creditos
+# Créditos
 Esta calculadora fue hecha en conjunto entre Macias Luciano (github user: luichinni) y Payajo Shein (github user: Shein-P)
