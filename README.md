@@ -37,4 +37,4 @@ Para utilizar esta calculadora solo es necesario ejecutar uno de los dos archivo
 
 
 # Créditos
-Esta calculadora fue hecha en conjunto entre Macias Luciano (github user: luichinni) y Payajo Shein (github user: Shein-P)
+Esta calculadora fue hecha en conjunto entre Macias Luciano (GitHub user: luichinni) y Payajo Shein (GitHub user: Shein-P)
