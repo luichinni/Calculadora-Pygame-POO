@@ -1,5 +1,5 @@
 # Calculadora-Pygame-POO
-Este programa fue un proyecto realizado para aprender la programación orientada a objetos, en el cual se emplea python 3.6 o superior. Dentro del proyecto, se hace uso de una versión embebida primigenea de [la clase botón en este repositorio](https://github.com/luichinni/Pygame-Button-Object)
+Este programa fue un proyecto realizado para aprender la programación orientada a objetos, en el cual se emplea python 3.6 o superior (Puede llegar a funcionar en 3.X en general). Dentro del proyecto, se hace uso de una versión embebida primigenea de [la clase botón en este repositorio](https://github.com/luichinni/Pygame-Button-Object)
 
 ## ¿Como usarla?
 Para utilizar esta calculadora solo es necesario ejecutar uno de los dos archivos python, ejecutando el que sea necesario _siendo una de las calculadoras con resultados de las operaciones trigonometricas en radianes y la otra en degrees._
